@@ -1,4 +1,7 @@
 # Teamix
+
+Case study: https://mohamedelgohary.dev/project/teamix/
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 Teamix is a messaging and collaboration platform designed for teams and organizations to streamline communication and collaboration.
 With Teamix, you can create organizations, engage in discussions through channels and topics, and enjoy a range of features to enhance teamwork.
